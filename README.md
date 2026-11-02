@@ -60,7 +60,7 @@ Install Python and Jupyter, along with the libraries used by the notebook: panda
 
 ```text
 .
-|-- CCA_Misinformation_Pattern_Recognition (1).ipynb
+|-- Fake_News_Detection_using_Feature_Selection.ipynb
 |-- cca_results/
 |   |-- classification_reports.csv
 |   `-- model_comparison.csv
