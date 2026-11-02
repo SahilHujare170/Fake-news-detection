@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project studies how Chi-Square feature selection affects traditional machine learning models used to classify news articles as fake or real. It compares models trained with the full TF-IDF feature set against models trained with a reduced feature set.
+This project studies how Chi-Square feature selection affects the traditional machine learning models used to classify news articles as fake or real. It compares models trained with the full TF-IDF feature set against models trained with a reduced feature set.
 
 The experiments focus on classification performance, feature dimensionality, and training time. The results show that the effect of feature selection varies by classifier: it slightly improves Multinomial Naive Bayes accuracy, while Logistic Regression and Linear SVM perform marginally better without selection.
 
